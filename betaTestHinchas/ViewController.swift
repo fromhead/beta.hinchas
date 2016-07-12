@@ -3,7 +3,7 @@
 //  betaTestHinchas
 //
 //  Created by Diego Hinchas on 11/7/16.
-//  Copyright © 2016 Diego Hinchas. All rights reserved.
+//  Copyright © 2016 Hinchas. All rights reserved.
 //
 
 import Cocoa
